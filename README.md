@@ -1,6 +1,6 @@
 <h2 align="center">Kavish Kumar</h2>
 
-<h3 align="center">AI Engineer | LLM Agents, RAG &amp; Evals | Ex-AI/ML Intern Infosys Springboard | Ex-SDE Intern Nebula Knowlab</h3>
+<h3 align="center">AI Engineer | LLM Agents, RAG &amp; Evals | Ex-AI/ML Intern Infosys Springboard | SDE Intern Nebula Knowlab</h3>
 
 <p align="center">
 I build AI agents that are safe to give real permissions: the model plans, deterministic code checks every action, and every result is measured with evals.<br>
